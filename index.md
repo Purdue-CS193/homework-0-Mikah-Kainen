@@ -5,6 +5,7 @@
 - The Command Line commands discussed during class, particularly pwd!
 - The funny pictures and animations in the slides!
 - The energetic Professors!
+- Bonus Item: The website Hacker Theme!
 ```
  
  
