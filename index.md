@@ -1,18 +1,19 @@
 ## Mikah's Awesome Website
 ### I Like a Bunch of Stuff About CS193!
+```markdown
 - First, I like the help with creating cool things like Github Websites.
 - Second, I liked the command line commands discussed during class. I've used command line before but I learned still learned some helpful things, particularly pwd!
 - Third, I love how the sides have funny pictures and animations.
 - Fourth, I love that our professors and so energetic!
+```
+ 
+ 
 
 
 
-
-
-
-
-
-
+ 
+ 
+ 
 
 
 
