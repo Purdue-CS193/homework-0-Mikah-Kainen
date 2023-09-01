@@ -1,4 +1,4 @@
-# Mikah's Awesome Website
+# Mikah Kainen's First CS193 Homework
 ## There are a lot of things I love about CS193! My favorites are:
 ```markdown
 - The help with creating cool things like Github Websites!
@@ -7,6 +7,11 @@
 - The energetic Professors!
 - Bonus Item: The website Hacker Theme!
 ```
+- The help with creating cool things like Github Websites!
+- The Command Line commands discussed during class, particularly pwd!
+- The funny pictures and animations in the slides!
+- The energetic Professors!
+- Bonus Item: The website Hacker Theme!
  
  
  Imma just keep this stuff here for future reference:
